@@ -1,0 +1,5 @@
+*.project
+.settings/org.eclipse.m2e.core.prefs
+*.classpath
+mr_JImpl_Fet/.settings/org.eclipse.jdt.core.prefs
+*.prefs
